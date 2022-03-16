@@ -1,3 +1,13 @@
 body{
-    font-family:'Open Sans' , sans-serif;
+    font-family:'Open Sans' sans-serif;
+}
+.bannner1{
+    background-color: #cacaca;
+}
+.bannner-col{
+    background-color: #8d8d8d;
+
+}
+.navbaar-container{
+    background-color: #262B37;
 }
