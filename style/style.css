@@ -11,3 +11,13 @@ body{
 .navbaar-container{
     background-color: #262B37;
 }
+#About{
+    background-color: #00BDBD;
+}
+.Circle{
+    width: 150px;
+    height: 150px;
+    background-color: #fb857f;
+    border-radius: 50%;
+    text-align: center;
+}
